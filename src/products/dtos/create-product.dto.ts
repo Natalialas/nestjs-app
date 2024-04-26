@@ -1,5 +1,5 @@
 export type CreateProductDTO = {
-    name: string;
-    price: number;
-    description: string;
+  name: string;
+  price: number;
+  description: string;
 };
